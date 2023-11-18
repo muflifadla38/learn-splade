@@ -1,4 +1,4 @@
-# Laravel Dashboard Core with Metronic Template
+# Learn Laravel Splade
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![PHP Version](https://img.shields.io/badge/PHP-8.1-blue)
@@ -22,7 +22,7 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/muflifadla38/learn-splade.git
-   cd laravel-dashboard
+   cd learn-splade
 
 2. **Install Dependencies:**
    ```bash
